@@ -1,9 +1,10 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>mavenex</groupId>
   <artifactId>child</artifactId>
-  <version>1.2</version>
+  <version>1.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>child</name>
@@ -139,8 +140,7 @@
 	  </build>
  
 			<scm>
-				<developerConnection>scm:git:https://github.com/preetham31/github-maven-example.git&gt;</developerConnection>
-				  <tag>child-1.2</tag>
-  </scm>
+				<developerConnection>scm:git:https://github.com/preetham31/github-maven-example.git></developerConnection>
+				</scm>
 				
 </project>
