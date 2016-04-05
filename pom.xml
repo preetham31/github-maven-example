@@ -125,7 +125,7 @@
 	  <plugins>
 	  
 	  <plugin>
-		<artifactid>maven-release-plugin</artifactid>
+		<artifactId>maven-release-plugin</artifactId>
 		 <version>2.5</version>
 		<configuration>
 		
